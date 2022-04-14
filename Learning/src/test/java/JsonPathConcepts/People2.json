@@ -1,0 +1,29 @@
+{
+"data" :[
+  {
+    "Name": "ABC",
+    "Age": 35,
+    "Gender": "Male"
+  },
+  {
+    "Name": "DEF",
+    "Age": 30,
+    "Gender": "Female"
+  },
+  {
+    "Name": "GHI",
+    "Age": 32,
+    "Gender": "Male"
+  },
+  {
+    "Name": "JKL",
+    "Age": 33,
+    "Gender": "Female"
+  },
+  {
+    "Name": "MNO",
+    "Age": 31,
+    "Gender": "Male"
+  }
+  ]
+}
