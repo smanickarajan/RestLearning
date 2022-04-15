@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-04-14T19:34:52 IST" name="Suite" finished-at="2022-04-14T19:34:56 IST" duration-ms="3719">
+  <suite started-at="2022-04-15T10:47:08 IST" name="Suite" finished-at="2022-04-15T10:47:16 IST" duration-ms="8343">
     <groups>
     </groups>
-    <test started-at="2022-04-14T19:34:52 IST" name="Test1" finished-at="2022-04-14T19:34:56 IST" duration-ms="3137">
+    <test started-at="2022-04-15T10:47:08 IST" name="Test1" finished-at="2022-04-15T10:47:14 IST" duration-ms="6183">
       <class name="DataShare.CreateBooking2">
-        <test-method signature="CreatebookingforITestContext(org.testng.ITestContext)[pri:0, instance:DataShare.CreateBooking2@670002]" started-at="2022-04-14T19:34:53 IST" name="CreatebookingforITestContext" finished-at="2022-04-14T19:34:56 IST" duration-ms="3089" status="PASS">
+        <test-method signature="CreatebookingforITestContext(org.testng.ITestContext)[pri:0, instance:DataShare.CreateBooking2@67080771]" started-at="2022-04-15T10:47:08 IST" name="CreatebookingforITestContext" finished-at="2022-04-15T10:47:14 IST" duration-ms="6085" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@48f2bd5b]]>
+                <![CDATA[org.testng.TestRunner@2eae8e6e]]>
               </value>
             </param>
           </params>
@@ -20,13 +20,13 @@
         </test-method> <!-- CreatebookingforITestContext -->
       </class> <!-- DataShare.CreateBooking2 -->
     </test> <!-- Test1 -->
-    <test started-at="2022-04-14T19:34:56 IST" name="Test2" finished-at="2022-04-14T19:34:56 IST" duration-ms="529">
+    <test started-at="2022-04-15T10:47:14 IST" name="Test2" finished-at="2022-04-15T10:47:16 IST" duration-ms="1939">
       <class name="DataShare.GetBooking2">
-        <test-method signature="getBooking(org.testng.ITestContext)[pri:0, instance:DataShare.GetBooking2@1700915]" started-at="2022-04-14T19:34:56 IST" name="getBooking" finished-at="2022-04-14T19:34:56 IST" duration-ms="524" status="PASS">
+        <test-method signature="getBooking(org.testng.ITestContext)[pri:0, instance:DataShare.GetBooking2@71def8f8]" started-at="2022-04-15T10:47:14 IST" name="getBooking" finished-at="2022-04-15T10:47:16 IST" duration-ms="1928" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@3234474]]>
+                <![CDATA[org.testng.TestRunner@1235151c]]>
               </value>
             </param>
           </params>
